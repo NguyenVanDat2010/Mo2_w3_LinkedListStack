@@ -29,4 +29,5 @@ public class MyGenericStack<E> {
     public int size(){
         return stack.size();
     }
+
 }
